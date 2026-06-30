@@ -40,20 +40,18 @@ The report consists of 4 highly focused pages tailored to different business sta
 
 ---
 
-## 📂 Repository Structure
-```text
-├── Dashboard/            # The main Power BI (.pbix) file 
-├── Screenshots/          # High-resolution images of all 4 dashboard pages
-├── PichSide Pro video.mp4 # Video demonstration walkthrough of the dashboard
-└── README.md             # Project documentation (This file)
-
----
-
 ## 🚀 How to Explore the Dashboard
 
-1. **Live Report Interactive Link:** [https://community.fabric.microsoft.com/t5/Contests-Gallery/PitchSide-Pro-The-World-Cup-Commerce-Hub/m-p/5234085#M3169]
-2. **Download & Play:** Clone this repository, navigate to the `Dashboard/` folder, and open the `.pbix` file using Power BI Desktop to inspect the modeling structure, DAX measures, and bookmark layers.
+1. **Live Report Interactive Link:** [View my Live Report](https://community.fabric.microsoft.com/t5/Contests-Gallery/PitchSide-Pro-The-World-Cup-Commerce-Hub/m-p/5234085#M3169)
+2. **Download & Play:** Clone this repository, download the World Champs BCN 26 - Round 1.pbix file, and open it using Power BI Desktop to inspect the modeling structure, DAX measures, and bookmark layers.
 
 ---
 🔬 **Author:** Urvashi Santoki  
-💼 **Connect:** [www.linkedin.com/in/urvashi-santoki-a47826295]
+💼 **Connect:** [LinkedIn](www.linkedin.com/in/urvashi-santoki-a47826295)
+
+## 📂 Repository Structure
+```text
+├── World Champs BCN 26-Round 1.pbix   # The main Power BI (.pbix) file 
+├── Screenshots/          # High-resolution images of all 4 dashboard pages
+├── PichSide Pro video.mp4 # Video demonstration walkthrough of the dashboard
+└── README.md             # Project documentation (This file)
