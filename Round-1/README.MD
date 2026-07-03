@@ -1,7 +1,7 @@
 # PitchSide Pro: The World Cup Commerce Hub
 
-🏆 **Microsoft Power BI DataViz World Championships (Round 1 Submission)** 
-🎯 **An Initiative by the Microsoft Fabric Community (60 Days of Data and AI)**
+*🏆 **Microsoft Power BI DataViz World Championships (Round 1 Submission)** 
+*🎯 **An Initiative by the Microsoft Fabric Community (60 Days of Data and AI)**
 
 ---
 
@@ -16,10 +16,10 @@ The primary goal of this analysis is to identify key macroeconomic drivers, regi
 
 The report consists of 4 highly focused pages tailored to different business stakeholders:
 
-1. **Overview** * Provides a macro-level executive summary of global sales performance, total net revenue, profit margins, and baseline KPIs.
-2. **Time Performance** * Tracks performance velocity and revenue patterns over the 5-year timeline across years, quarters, months, and days to uncover historical anomalies and growth trajectories.
-3. **Demographics & Category Sales** * Deep-dives into geographic demand (by country and macro-region) and product category performance to pinpoint exactly which fan base and gear drives the highest volume.
-4. **Channels & Seasons** * Examines digital acquisition channels (Organic Search, Direct, Email, etc.) and isolates major seasonal peaks, proving the monumental revenue spike triggered during World Cup cycles.
+1. **Overview:** Provides a macro-level executive summary of global sales performance, total net revenue, profit margins, and baseline KPIs.
+2. **Time Performance:** Tracks performance velocity and revenue patterns over the 5-year timeline across years, quarters, months, and days to uncover historical anomalies and growth trajectories.
+3. **Demographics & Category Sales:** Deep-dives into geographic demand (by country and macro-region) and product category performance to pinpoint exactly which fan base and gear drives the highest volume.
+4. **Channels & Seasons:** Examines digital acquisition channels (Organic Search, Direct, Email, etc.) and isolates major seasonal peaks, proving the monumental revenue spike triggered during World Cup cycles.
 
 ---
 
@@ -32,12 +32,13 @@ The report consists of 4 highly focused pages tailored to different business sta
 ---
 
 ## 🚀 How to Explore the Dashboard
+
 1. **Live Report Interactive Link:** [View my Live Report](https://community.fabric.microsoft.com/t5/Contests-Gallery/PitchSide-Pro-The-World-Cup-Commerce-Hub/m-p/5234085#M3169)
 
 2. **Download & Play:** Clone this repository, download the PitchSide Pro.pbix file, and open it using Power BI Desktop to inspect the modeling structure, DAX measures, and bookmark layers.
 
-🔬 Author: Urvashi Santoki
-💼 Connect: (LinkedIn)[https://www.linkedin.com/in/urvashi-santoki-a47826295/]
+*🔬 Author: Urvashi Santoki
+*💼 Connect: [LinkedIn](https://www.linkedin.com/in/urvashi-santoki-a47826295/)
 
 ## 📂 Repository Structure
 ```text
