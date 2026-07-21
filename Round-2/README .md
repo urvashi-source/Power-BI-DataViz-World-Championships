@@ -40,9 +40,7 @@ The report consists of 4 specialized, movie-inspired pages designed for seamless
 
 ---
 
-## 🔬 Credits & Author
-
-* **Author:** Urvashi Santoki   
+* **🔬 Author:** Urvashi Santoki   
 * **💼 Connect:** [LinkedIn](www.linkedin.com/in/urvashi-santoki-a47826295)
 
 ---
